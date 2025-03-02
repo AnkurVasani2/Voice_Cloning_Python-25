@@ -1,0 +1,25 @@
+/content/TTS-TT2/wavs/1.wav|The quick brown fox jumps over the lazy dog.
+/content/TTS-TT2/wavs/2.wav|A gentle breeze stirred the leaves of the ancient oak tree.
+/content/TTS-TT2/wavs/3.wav|In the heart of the bustling city the streetlights shimmered in the night.
+/content/TTS-TT2/wavs/4.wav|Rain fell steadily creating a soft melody on the windowpane.
+/content/TTS-TT2/wavs/5.wav|The mountain peaks were dusted with snow as the sun rose above the horizon.
+/content/TTS-TT2/wavs/6.wav|Under a starry sky the ocean waves whispered secrets to the shore.
+/content/TTS-TT2/wavs/7.wav|A vibrant rainbow appeared after the summer storm passed.
+/content/TTS-TT2/wavs/8.wav|The little girl laughed joyfully as she chased butterflies in the garden.
+/content/TTS-TT2/wavs/9.wav|An old clock in the hallway chimed midnight echoing through the silent house.
+/content/TTS-TT2/wavs/10.wav|Bright tulips and daffodils bloomed in the springtime garden.
+/content/TTS-TT2/wavs/11.wav|The bustling market was filled with the aroma of fresh spices and baked bread.
+/content/TTS-TT2/wavs/12.wav|A solitary boat drifted on the tranquil lake reflecting the clear blue sky.
+/content/TTS-TT2/wavs/13.wav|The cat stretched lazily in a sunbeam on the warm windowsill.
+/content/TTS-TT2/wavs/14.wav|Gentle piano notes filled the room creating a peaceful ambiance.
+/content/TTS-TT2/wavs/15.wav|The ancient castle stood tall guarding stories of long-forgotten battles.
+/content/TTS-TT2/wavs/16.wav|Whispers of the wind carried tales of distant lands and legendary heroes.
+/content/TTS-TT2/wavs/17.wav|In the quiet library the rustling pages of a book told a thousand stories.
+/content/TTS-TT2/wavs/18.wav|Morning dew glistened on the delicate petals of a blooming rose.
+/content/TTS-TT2/wavs/19.wav|The aroma of freshly brewed coffee filled the cozy kitchen.
+/content/TTS-TT2/wavs/20.wav|A cascade of fireworks lit up the night sky during the festive celebration.
+/content/TTS-TT2/wavs/21.wav|Mystical shadows danced on the walls as the candle flickered.
+/content/TTS-TT2/wavs/22.wav|The artist carefully mixed vibrant colors on the palette before beginning the portrait.
+/content/TTS-TT2/wavs/23.wav|Under the gentle glow of the moon, the garden looked enchanting and mysterious.
+/content/TTS-TT2/wavs/24.wav|A soft melodious hum echoed in the ancient temple as the choir sang in unison.
+/content/TTS-TT2/wavs/25.wav|The crisp autumn air was filled with the scent of falling leaves and cinnamon spice.
